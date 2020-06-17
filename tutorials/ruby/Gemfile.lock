@@ -4,7 +4,7 @@ GEM
     metaparticle (0.0.0.13)
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
-    rack (2.2.2)
+    rack (2.2.3)
     rack-protection (2.0.8.1)
       rack
     ruby2_keywords (0.0.2)
@@ -20,7 +20,7 @@ PLATFORMS
 
 DEPENDENCIES
   metaparticle
-  sinatra
+  sinatra (>= 2.0.8.1)
 
 BUNDLED WITH
-   1.15.4
+   1.17.3

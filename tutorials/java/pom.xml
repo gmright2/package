@@ -38,7 +38,7 @@
             </goals>
           </execution>
         </executions>
-        <configuration></configuration>
+        <configuration/>
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -101,7 +101,7 @@
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20170516</version>
+      <version>20230227</version>
     </dependency>
     <dependency>
       <groupId>io.metaparticle</groupId>
